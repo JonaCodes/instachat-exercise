@@ -8,6 +8,8 @@ Simply run `npm run dev`, and open `http://localhost:8080/` on two separate brow
 
 ## Tasks
 
+Fork the repo and complete the following locally:
+
 1. Fix the bug
 
    - The main "live chat" feature only works on the first message. Ensure that any time any user types, their text appears in real time on the other client
