@@ -30,3 +30,5 @@ Fork the repo and complete the following locally:
 While the goal is for you to practice using your coding copilot (claude, gemini, codex - whichever), remember that **you are the captain**; guide the LLM.
 
 It was blindly trusting an LLM that created this messy codebase in the first place, so let's not make the same mistake ;)
+
+<img width="808" height="609" alt="image" src="https://github.com/user-attachments/assets/fb0cd20b-575c-4476-916f-b5a033bc463a" />
