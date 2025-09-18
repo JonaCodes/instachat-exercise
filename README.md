@@ -14,6 +14,7 @@ Fork the repo and complete the following locally:
 
    - The main "live chat" feature only works on the first message. Ensure that any time any user types, their text appears in real time on the other client
    - See the bug [here](https://drive.google.com/file/d/19l0Gn4moBGrtqbkO3NbZ2SElCVT-c_7v/view?usp=sharing)
+   - **Note**: the bug only occurs if you leave the username fields *empty*
 
 2. Refactor the code
 
