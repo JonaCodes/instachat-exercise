@@ -2,6 +2,10 @@
 
 This is a buggy, AI-generated, _real_-time chat app. Practice your AI-copiloting by completing the tasks below.
 
+For a free copilot with minimal setup, you can install Gemini CLI by running this: `npm i -g @google/gemini-cli`
+
+Then run `gemini` in your project directory and login with your Google account - that's it! Then you can chat with it and it will have access to your code.
+
 ## Running the app
 
 Simply run `npm run dev`, and open `http://localhost:8080/` on two separate browser windows to see the chat interface
